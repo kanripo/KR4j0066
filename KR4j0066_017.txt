@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 唐宋諸賢絶妙詞選
-#+DATE: 2015-09-23 10:35:48
-#+PROPERTY: LASTPB  <pb:KR4j0066_SBCK_004-15a>
-#+PROPERTY: JUAN 17
-
-
-卷

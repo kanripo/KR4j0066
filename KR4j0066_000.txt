@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 唐宋諸賢絶妙詞選
-#+DATE: 2015-09-23 10:35:48
-#+PROPERTY: JUAN 0
-
-
-别○
